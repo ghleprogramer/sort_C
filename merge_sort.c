@@ -50,4 +50,4 @@ merge_sort(int L[], int index_i, int len)
         L[index_i + i] = sorted[i];
     }
     return;
-}`
+}
